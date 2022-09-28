@@ -19,7 +19,15 @@ Source of data:
 
 ## Result
 ### Addition of tectonic plate
+<<<<<<< HEAD
 <img width="1069" alt="Screen Shot 2022-09-24 at 6 26 39 PM" src="https://user-images.githubusercontent.com/107566776/192120734-ec6bfa7f-d664-45c7-a6f4-9172ccc41ecb.png">
+
+=======
+1. Street layer
+<img width="1069" alt="Screen Shot 2022-09-24 at 6 26 39 PM" src="https://user-images.githubusercontent.com/107566776/192120734-ec6bfa7f-d664-45c7-a6f4-9172ccc41ecb.png">
+
+2. Satellite layer
+<img width="987" alt="Screen Shot 2022-09-27 at 4 17 11 PM" src="https://user-images.githubusercontent.com/107566776/192626945-898bad1f-478a-4783-8a6d-e70962b2e099.png">
 
 ### Addition of major earthquake data with magnitude>4.5
 <img width="1051" alt="Screen Shot 2022-09-24 at 6 28 34 PM" src="https://user-images.githubusercontent.com/107566776/192120769-92ba8f7b-bd1f-4015-a4d1-a19ba61b85a8.png">
